@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/fertathicham" target="blank"><img src="https://img.shields.io/twitter/follow/fertathicham?logo=twitter&style=for-the-badge" alt="fertathicham" /></a> </p>
 
-- 🔭 I’m currently working on **Full-stack project ( Spring & Angular ).**
+- 🔭 I’m currently working on **Full-stack project Spring & Angular.**
 
 - 🌱 I’m currently learning **more soft skills (english communication), and some devops tools.**
 
