@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Full-stack project ( Spring & Angular ).**
 
-- 🌱 I’m currently learning **more soft skills (english communication), a**
+- 🌱 I’m currently learning **more soft skills (english communication), and some devops tools.**
 
 - 👯 I’m looking to collaborate on **Open source projects.**
 
 - 🤝 I’m looking for help with **Official documentation.**
 
-- 💬 Ask me about **Java, Spring and Angular**
+- 💬 Ask me about **Java, Spring and Angular.**
 
 - 📫 How to reach me **Hicham.fertat@outlook.com**
 
